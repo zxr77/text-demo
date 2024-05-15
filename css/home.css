@@ -1,0 +1,36 @@
+.content-main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  /* 设置固定的高度 */
+}
+
+/* 其他样式不变 */
+.container-home {
+  height: 400px;
+  width: 1000px;
+  position: relative;
+}
+.main{
+  width: 100%;
+  display: flex;
+}
+header{
+  width: 100%;
+  height: 100px;
+  background: palegreen;
+} 
+nav {
+  height: calc(100vh - 180px);
+  width: 150px;
+  background: palegoldenrod;
+}
+section {
+  background: paleturquoise;
+  width: calc(100% - 100px);
+}
+
+footer {
+  height: 80px;
+  background: lightblue;
+}

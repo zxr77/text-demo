@@ -1,0 +1,32 @@
+@font-face {
+    font-family:'PFMBlack';
+    src:url(../font/pingguo/pingguo-m-black.ttf);
+}
+@font-face {
+    font-family:'PFBIG';
+    src:url(../font/pingguo/pingguo-b.ttf);
+}
+@font-face {
+    font-family:'CNXK';
+    src:url(../font/华文行楷/STXINGKA.TTF);
+}
+
+@font-face {
+    font-family:'苹方黑体准简';
+    src:url(../font/pingguo/苹方黑体-准-简.ttf);
+}
+
+@font-face {
+    font-family:'中粗简';
+    src:url(../font/pingguo/苹方黑体-中粗-简.ttf);
+}
+
+@font-face {
+    font-family:'中黑简';
+    src:url(../font/pingguo/苹方黑体-中黑-简.ttf);
+}
+
+@font-face {
+    font-family:'准简';
+    src:url(../font/pingguo/苹方黑体-准-简.ttf);
+}
